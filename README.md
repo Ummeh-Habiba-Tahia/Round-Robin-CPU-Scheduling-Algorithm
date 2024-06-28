@@ -68,10 +68,9 @@ Enter burst time for process 1: 10
 Enter burst time for process 2: 5
 Enter burst time for process 3: 8
 Enter the time quantum: 2
-
-PN        BT      WT              TAT
-1         10      13              23
-2         5       6               11
-3         8       10              18
-Average waiting time = 9.66667
-Average turn around time = 17.3333
+PN              BT        WT            TAT
+ 1              10      13              23
+ 2              5       10              15
+ 3              8       13              21
+Average waiting time = 12
+Average turn around time = 19.6667
